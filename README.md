@@ -3,6 +3,13 @@
 ### Installation
 Copy the ```star-wars-project.nds``` file in a SD card to be inserted in a NDS cartridge
 
+### Demo
+
+
+https://user-images.githubusercontent.com/48278352/236778300-e3c0ca52-d214-41de-afdb-258531430ff8.MOV
+
+
+
 ### Explanation of the different files
 
 ```star-wars-project-main```: source code <br />
